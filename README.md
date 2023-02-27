@@ -68,13 +68,13 @@ Design UI em tempo real.
 
 ## 📅 Date Pickers <a name = "datePicker"></a>[🔝](#init)
 
-```
-Component HSBC.
-```
+### Component HSBC.
 
-> Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+ <br/>
 
----
+```
+Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+```
 
  <br/>
 
@@ -106,13 +106,13 @@ Component HSBC.
 
  <br/>
 
-```
-Component Blue.
-```
+### Component Blue.
 
-> Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+ <br/>
 
----
+```
+Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+```
 
  <br/>
 
@@ -146,13 +146,13 @@ O **Date Picker** que trazemos como proposta já implementamos em outros cenári
 
 ## ➡️ Progress Tracker <a name = "progressTracker"></a>[🔝](#init)
 
-```
-Component HSBC.
-```
+### Component HSBC.
 
-> Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+ <br/>
 
----
+```
+Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+```
 
  <br/>
 
@@ -184,13 +184,13 @@ Component HSBC.
 
  <br/>
 
-```
-Component Blue.
-```
+### Component Blue.
 
-> Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+ <br/>
 
----
+```
+Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+```
 
  <br/>
 
@@ -224,13 +224,13 @@ O **Date Picker** que trazemos como proposta já implementamos em outros cenári
 
 ## 📑 Table Data <a name = "tableData"></a>[🔝](#init)
 
-```
-Component HSBC.
-```
+### Component HSBC.
 
-> Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+ <br/>
 
----
+```
+Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+```
 
  <br/>
 
@@ -262,13 +262,13 @@ Component HSBC.
 
  <br/>
 
-```
-Component Blue.
-```
+### Component Blue.
 
-> Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+ <br/>
 
----
+```
+Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+```
 
  <br/>
 
@@ -299,16 +299,16 @@ O **Date Picker** que trazemos como proposta já implementamos em outros cenári
 ---
 
  <br/>
- 
+
 ## ➡️ Data grid - Pagination <a name = "paginator"></a>[🔝](#init)
 
-```
-Component HSBC.
-```
+### Component HSBC.
 
-> Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+ <br/>
 
----
+```
+Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+```
 
  <br/>
 
@@ -340,13 +340,13 @@ Component HSBC.
 
  <br/>
 
-```
-Component Blue.
-```
+### Component Blue.
 
-> Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+ <br/>
 
----
+```
+Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+```
 
  <br/>
 
