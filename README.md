@@ -229,7 +229,7 @@ Horas estimadas para a elaboração deste: 180 Horas / média de 22 dias para um
 
 <p align="center">
   <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
- <img  src="./images/hsbcToolkitPrints/Table_data.png" alt="Bot logo"></a>
+ <img  src="./images/hsbcToolkitPrints/Table_Data.png" ></a>
 </p>
 
 <sup>Para acessae o documento clique aqui: [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>)</sup>
