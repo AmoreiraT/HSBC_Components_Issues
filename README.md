@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"> 🤖 Componets e Design Systems, adequações e diferenças entre propostas praticaveis em tempo hábil em fronte à propostas de customização de Design System. Aqui serão notados apenas os components de maior custo para criação e impactos à usabilidade para a entrega em tempo hábil.
+<p align="center"> 🤖 > Componets e Design Systems, adequações e diferenças entre propostas praticaveis em tempo hábil em fronte à propostas de customização de Design System. Aqui serão notados apenas os components de maior custo para criação e impactos à usabilidade para a entrega em tempo hábil.
     <br> 
 </p>
 
@@ -65,9 +65,14 @@ Design UI em tempo real.
 
  <br/>
 
-## 📅 Date Pickers <a name = "datePicker"></a>
+## 📅 Date Pickers <a name = "datePicker"></a>[🔝](#init)
 
 > Wholesale Web Toolkit Version: 4.0.0 December 2021. Páginas: 3, 4, 70, 71, 72
+
+<p align="center">
+  <a href="https://www.blueprojects.com.br/" rel="noopener">
+ <img  src="./images/hsbcToolkitPrints/Date_Picker.png" alt="Bot logo"></a>
+</p>
 
 The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
 
@@ -81,7 +86,8 @@ The entire bot is written in Python 3.6
 ---
 
  <br/>
-## ➡️ ProgressTracker <a name = "progressTracker"></a>
+ 
+## ➡️ ProgressTracker <a name = "progressTracker"></a>[🔝](#init)
 
 To use the bot, type:
 
@@ -110,7 +116,7 @@ Dude1: dafuq?
 
 <sup>Want to make a similar reddit bot? Check out: [GitHub](https://github.com/kylelobo/Reddit-Bot)</sup>
 
-## 📑 Table Data <a name = "tableData"></a>
+## 📑 Table Data <a name = "tableData"></a>[🔝](#init)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [nativeComponents](#nativeComponents) for notes on how to deploy the project on a live system.
 
@@ -122,7 +128,7 @@ These instructions will get you a copy of the project up and running on your loc
 
  <br/>
 
-## 📟 Native Components <a name = "nativeComponents"></a>
+## 📟 Native Components <a name = "nativeComponents"></a>[🔝](#init)
 
 To see an example project on how to deploy your bot, please see my own configuration:
 
@@ -134,7 +140,7 @@ To see an example project on how to deploy your bot, please see my own configura
 
  <br/>
 
-## 📍 Versionamentos <a name = "versionamentos"></a>
+## 📍 Versionamentos <a name = "versionamentos"></a>[🔝](#init)
 
 - [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
 - [Heroku](https://www.heroku.com/) - SaaS hosting platform
@@ -145,7 +151,7 @@ To see an example project on how to deploy your bot, please see my own configura
 
  <br/>
 
-## 🕸️ Acessos <a name = "links"></a>
+## 🕸️ Acessos <a name = "links"></a>[🔝](#init)
 
 > Protótipo do Portal Web em tempo real. <br/> > **Link:** https://www.figma.com/proto/JHPXOOzrbejTLOK0593s7u/HSBC-Web?page-id=0%3A10&node-id=1359%3A9949&viewport=321%2C-255%2C0.14&scaling=contain&starting-point-node-id=1359%3A9949
 
@@ -157,7 +163,7 @@ To see an example project on how to deploy your bot, please see my own configura
 
  <br/>
 
-## 🎉 Autores <a name = "autor"></a>
+## 🎉 Autores <a name = "autor"></a>[🔝](#init)
 
 - Thiago Moreira
 - Lincoln Silva
