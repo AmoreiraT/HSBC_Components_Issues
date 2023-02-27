@@ -26,6 +26,7 @@
 - [Date Pickers](#datePicker)
 - [Custom Progress Tracker](#progressTracker)
 - [Table Data](#tableData)
+- [Data grid - Pagination](#paginator)
 - [Native Components](#nativeComponents)
 - [Versionamentos](#versionamentos)
 - [Links](#links)
@@ -67,6 +68,16 @@ Design UI em tempo real.
 
 ## 📅 Date Pickers <a name = "datePicker"></a>[🔝](#init)
 
+```
+Component HSBC.
+```
+
+> Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+
+---
+
+ <br/>
+
 > [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>): 4.0.0 December 2021. Páginas: 3, 4, 70, 71, 72
 
 ### Prints:
@@ -95,13 +106,273 @@ Design UI em tempo real.
 
  <br/>
 
-## ➡️ Progress Tracker <a name = "progressTracker"></a>[🔝](#init)
+```
+Component Blue.
+```
+
+> Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
 
 ---
 
-## 📑 Table Data <a name = "tableData"></a>[🔝](#init)
+ <br/>
+
+> [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/): Documentação completa.
+
+### Prints:
+
+<p align="center">
+  <a href="https://mui.com/x/react-date-pickers/getting-started/" rel="noopener">
+ <img  src="./images/MUIcomponents/Date_Picker.png" alt="Bot logo"></a>
+</p>
+
+<p align="center">
+  <a href="https://mui.com/x/react-date-pickers/date-picker/" rel="noopener">
+ <img height=560px src="./images/MUIcomponents/DatePickerSub.png" alt="Bot logo"></a>
+ <a href="https://mui.com/x/react-date-pickers/date-range-picker/" rel="noopener">
+ <img height=400px src="./images/MUIcomponents/DateRange.png" alt="Bot logo"></a>
+</p>
+
+<sup>Para acessae o documento clique aqui: [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/)</sup>
+
+- **Material UI** é um Design System elaborado pela **Google** que resolve uma série de questões de usabilidade universalizando a experiência do usuário em determinadas aplicações.
+
+O **Date Picker** que trazemos como proposta já implementamos em outros cenários, o que possibilita a agilidade no momento de adequar o Theme proposto, podendo ser feitas alterações sutís, como: cores, linguagem, arredondamento de bordas. A estrutura do componente não pode ser mudada pois podem trazer riscos à usabilidade.
+
+<br/>
+
+---
 
  <br/>
+
+## ➡️ Progress Tracker <a name = "progressTracker"></a>[🔝](#init)
+
+```
+Component HSBC.
+```
+
+> Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+
+---
+
+ <br/>
+
+> [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>): 4.0.0 December 2021. Páginas: 3, 4, 70, 71, 72
+
+### Prints:
+
+<p align="center">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img  src="./images/hsbcToolkitPrints/Date_Picker.png" alt="Bot logo"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img height=560px src="./images/hsbcToolkitPrints/Date_Picker_Date_range_picker_symbols_added.png" alt="Bot logo"></a>
+ <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img height=400px src="./images/hsbcToolkitPrints/Date_range_picker_combo box.png" alt="Bot logo"></a>
+</p>
+
+<sup>Para acessae o documento clique aqui: [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>)</sup>
+
+**Date Picker** é um componente para a seleção de datas, períodos e demais funcionalidades que representem datas a serem informadas pelo cliente. É um componente que tende a inúmeras variações de acordo com suas necessidades, por exemplo, selecionar um período de início e fim de alguma atividade, selecionar apenas dias, apenas meses, apenas anos ou um combinado desses atributos. Compor todas essas variações pode se tornar complexo e oneroso de acordo com as necessidades de teste de usabilidade e bugs que podem sem apresentados no browser.
+
+- O **Date Picker** que trazemos como proposta segue já um entendimento universalizado de usabilidade podendo em muitas plataformas e SO serem notados como [Components nativos](#nativeComponents) entretanto para estes que são nativos trazemos um parágrafo de considerações.
+
+<br/>
+
+---
+
+ <br/>
+
+```
+Component Blue.
+```
+
+> Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+
+---
+
+ <br/>
+
+> [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/): Documentação completa.
+
+### Prints:
+
+<p align="center">
+  <a href="https://mui.com/x/react-date-pickers/getting-started/" rel="noopener">
+ <img  src="./images/MUIcomponents/Date_Picker.png" alt="Bot logo"></a>
+</p>
+
+<p align="center">
+  <a href="https://mui.com/x/react-date-pickers/date-picker/" rel="noopener">
+ <img height=560px src="./images/MUIcomponents/DatePickerSub.png" alt="Bot logo"></a>
+ <a href="https://mui.com/x/react-date-pickers/date-range-picker/" rel="noopener">
+ <img height=400px src="./images/MUIcomponents/DateRange.png" alt="Bot logo"></a>
+</p>
+
+<sup>Para acessae o documento clique aqui: [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/)</sup>
+
+- **Material UI** é um Design System elaborado pela **Google** que resolve uma série de questões de usabilidade universalizando a experiência do usuário em determinadas aplicações.
+
+O **Date Picker** que trazemos como proposta já implementamos em outros cenários, o que possibilita a agilidade no momento de adequar o Theme proposto, podendo ser feitas alterações sutís, como: cores, linguagem, arredondamento de bordas. A estrutura do componente não pode ser mudada pois podem trazer riscos à usabilidade.
+
+<br/>
+
+---
+
+ <br/>
+
+## 📑 Table Data <a name = "tableData"></a>[🔝](#init)
+
+```
+Component HSBC.
+```
+
+> Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+
+---
+
+ <br/>
+
+> [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>): 4.0.0 December 2021. Páginas: 3, 4, 70, 71, 72
+
+### Prints:
+
+<p align="center">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img  src="./images/hsbcToolkitPrints/Date_Picker.png" alt="Bot logo"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img height=560px src="./images/hsbcToolkitPrints/Date_Picker_Date_range_picker_symbols_added.png" alt="Bot logo"></a>
+ <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img height=400px src="./images/hsbcToolkitPrints/Date_range_picker_combo box.png" alt="Bot logo"></a>
+</p>
+
+<sup>Para acessae o documento clique aqui: [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>)</sup>
+
+**Date Picker** é um componente para a seleção de datas, períodos e demais funcionalidades que representem datas a serem informadas pelo cliente. É um componente que tende a inúmeras variações de acordo com suas necessidades, por exemplo, selecionar um período de início e fim de alguma atividade, selecionar apenas dias, apenas meses, apenas anos ou um combinado desses atributos. Compor todas essas variações pode se tornar complexo e oneroso de acordo com as necessidades de teste de usabilidade e bugs que podem sem apresentados no browser.
+
+- O **Date Picker** que trazemos como proposta segue já um entendimento universalizado de usabilidade podendo em muitas plataformas e SO serem notados como [Components nativos](#nativeComponents) entretanto para estes que são nativos trazemos um parágrafo de considerações.
+
+<br/>
+
+---
+
+ <br/>
+
+```
+Component Blue.
+```
+
+> Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+
+---
+
+ <br/>
+
+> [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/): Documentação completa.
+
+### Prints:
+
+<p align="center">
+  <a href="https://mui.com/x/react-date-pickers/getting-started/" rel="noopener">
+ <img  src="./images/MUIcomponents/Date_Picker.png" alt="Bot logo"></a>
+</p>
+
+<p align="center">
+  <a href="https://mui.com/x/react-date-pickers/date-picker/" rel="noopener">
+ <img height=560px src="./images/MUIcomponents/DatePickerSub.png" alt="Bot logo"></a>
+ <a href="https://mui.com/x/react-date-pickers/date-range-picker/" rel="noopener">
+ <img height=400px src="./images/MUIcomponents/DateRange.png" alt="Bot logo"></a>
+</p>
+
+<sup>Para acessae o documento clique aqui: [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/)</sup>
+
+- **Material UI** é um Design System elaborado pela **Google** que resolve uma série de questões de usabilidade universalizando a experiência do usuário em determinadas aplicações.
+
+O **Date Picker** que trazemos como proposta já implementamos em outros cenários, o que possibilita a agilidade no momento de adequar o Theme proposto, podendo ser feitas alterações sutís, como: cores, linguagem, arredondamento de bordas. A estrutura do componente não pode ser mudada pois podem trazer riscos à usabilidade.
+
+<br/>
+
+---
+
+ <br/>
+ 
+## ➡️ Data grid - Pagination <a name = "paginator"></a>[🔝](#init)
+
+```
+Component HSBC.
+```
+
+> Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um mês de 22 dias úteis.
+
+---
+
+ <br/>
+
+> [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>): 4.0.0 December 2021. Páginas: 3, 4, 70, 71, 72
+
+### Prints:
+
+<p align="center">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img  src="./images/hsbcToolkitPrints/Date_Picker.png" alt="Bot logo"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img height=560px src="./images/hsbcToolkitPrints/Date_Picker_Date_range_picker_symbols_added.png" alt="Bot logo"></a>
+ <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img height=400px src="./images/hsbcToolkitPrints/Date_range_picker_combo box.png" alt="Bot logo"></a>
+</p>
+
+<sup>Para acessae o documento clique aqui: [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>)</sup>
+
+**Date Picker** é um componente para a seleção de datas, períodos e demais funcionalidades que representem datas a serem informadas pelo cliente. É um componente que tende a inúmeras variações de acordo com suas necessidades, por exemplo, selecionar um período de início e fim de alguma atividade, selecionar apenas dias, apenas meses, apenas anos ou um combinado desses atributos. Compor todas essas variações pode se tornar complexo e oneroso de acordo com as necessidades de teste de usabilidade e bugs que podem sem apresentados no browser.
+
+- O **Date Picker** que trazemos como proposta segue já um entendimento universalizado de usabilidade podendo em muitas plataformas e SO serem notados como [Components nativos](#nativeComponents) entretanto para estes que são nativos trazemos um parágrafo de considerações.
+
+<br/>
+
+---
+
+ <br/>
+
+```
+Component Blue.
+```
+
+> Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
+
+---
+
+ <br/>
+
+> [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/): Documentação completa.
+
+### Prints:
+
+<p align="center">
+  <a href="https://mui.com/x/react-date-pickers/getting-started/" rel="noopener">
+ <img  src="./images/MUIcomponents/Date_Picker.png" alt="Bot logo"></a>
+</p>
+
+<p align="center">
+  <a href="https://mui.com/x/react-date-pickers/date-picker/" rel="noopener">
+ <img height=560px src="./images/MUIcomponents/DatePickerSub.png" alt="Bot logo"></a>
+ <a href="https://mui.com/x/react-date-pickers/date-range-picker/" rel="noopener">
+ <img height=400px src="./images/MUIcomponents/DateRange.png" alt="Bot logo"></a>
+</p>
+
+<sup>Para acessae o documento clique aqui: [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/)</sup>
+
+- **Material UI** é um Design System elaborado pela **Google** que resolve uma série de questões de usabilidade universalizando a experiência do usuário em determinadas aplicações.
+
+O **Date Picker** que trazemos como proposta já implementamos em outros cenários, o que possibilita a agilidade no momento de adequar o Theme proposto, podendo ser feitas alterações sutís, como: cores, linguagem, arredondamento de bordas. A estrutura do componente não pode ser mudada pois podem trazer riscos à usabilidade.
+
+<br/>
 
 ---
 
