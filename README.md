@@ -110,12 +110,6 @@ Horas estimadas para a elaboração deste: 140 Horas / média de 17 dias para um
 
  <br/>
 
-```
-Horas estimadas para a elaboração deste: 8 Horas / média de 1 dia para um mês de 22 dias úteis.
-```
-
- <br/>
-
 > [Material UI React Date Pickers](https://mui.com/x/react-date-pickers/getting-started/): Documentação completa.
 
 ### Prints:
@@ -179,12 +173,6 @@ Horas estimadas para a elaboração deste: 60 Horas / média de 7 dias para um m
 
  <br/>
 
-```
-Horas estimadas para a elaboração deste: 4 Horas / média de meio dia para um mês de 22 dias úteis.
-```
-
- <br/>
-
 > [Material UI React Stepper](https://mui.com/material-ui/react-stepper/): Documentação completa.
 
 ### Prints:
@@ -243,12 +231,6 @@ Horas estimadas para a elaboração deste: 180 Horas / média de 22 dias para um
  <br/>
 
 ### Component Blue.
-
- <br/>
-
-```
-Horas estimadas para a elaboração deste: 14 Horas / média de 1 dia e meio para um mês de 22 dias úteis.
-```
 
  <br/>
 
@@ -314,12 +296,6 @@ Horas estimadas para a elaboração deste: 80 Horas / média de 10 dias para um 
  <br/>
 
 ### Component Blue.
-
- <br/>
-
-```
-Horas estimadas para a elaboração deste: 2 Horas / média de 1/4 do dia para um mês de 22 dias úteis.
-```
 
  <br/>
 
