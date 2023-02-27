@@ -1,6 +1,4 @@
-# Componentes e Design Systems Impactados
-
-(#componentes_e_design_systems_impactados)
+# Componentes e Design Systems Impactados <a name = "init"></a>
 
 <p align="center">
   <a href="https://www.blueprojects.com.br/" rel="noopener">
@@ -33,11 +31,11 @@
 - [Links](#links)
 - [Autores](#autor)
 
-## 🧐 Sobre <a name = "sobre"></a>[🔝](#componentes_e_design_systems_impactados)
+## 🧐 Sobre <a name = "sobre"></a>[🔝](#init)
 
 Write sobre 1-2 paragraphs describing the purpose of your bot.
 
-## 🎨 Figma <a name = "figma"></a>[🔝](#componentes_e_design_systems_impactados)
+## 🎨 Figma <a name = "figma"></a>[🔝](#init)
 
 ```
 Protótipo do Portal Web em tempo real.
