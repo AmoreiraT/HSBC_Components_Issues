@@ -101,8 +101,6 @@ Design UI em tempo real.
 
 ## 📑 Table Data <a name = "tableData"></a>[🔝](#init)
 
-### Prerequisites
-
  <br/>
 
 ---
@@ -143,4 +141,4 @@ Design UI em tempo real.
 
 - Thiago Moreira
 - Lincoln Silva
-- Estevão
+- Estevão Vilas Boas
