@@ -348,6 +348,21 @@ O **Date Picker** que trazemos como proposta já implementamos em outros cenári
 
  <br/>
 
+> [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>): 4.0.0 December 2021. Página: 79
+
+### Prints:
+
+<p align="center">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img  src="./images/hsbcToolkitPrints/Native_Components.png" alt="Bot logo"></a>
+</p>
+
+<sup>Para acessae o documento clique aqui: [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>)</sup>
+
+**Componentes Nativos** do browser, SO ou dispositivo podem sofrer alterações de acordo com essas variações e versões por parte do cliente.
+
+ <br/>
+
 ---
 
  <br/>
@@ -366,7 +381,11 @@ O **Date Picker** que trazemos como proposta já implementamos em outros cenári
 
 ## 🕸️ Acessos <a name = "links"></a>[🔝](#init)
 
+ <br/>
+
 > Protótipo do Portal Web em tempo real. <br/> **Link:** https://www.figma.com/proto/JHPXOOzrbejTLOK0593s7u/HSBC-Web?page-id=0%3A10&node-id=1359%3A9949&viewport=321%2C-255%2C0.14&scaling=contain&starting-point-node-id=1359%3A9949
+
+ <br/>
 
 > Design UI em tempo real. <br/> **Link:** https://www.figma.com/file/JHPXOOzrbejTLOK0593s7u/HSBC-Web?node-id=0%3A10&t=ishXP9WoRTXOQx8X-1
 
@@ -378,6 +397,6 @@ O **Date Picker** que trazemos como proposta já implementamos em outros cenári
 
 ## 🎉 Autores <a name = "autor"></a>[🔝](#init)
 
-- Thiago Moreira
-- Lincoln Silva
-- Estevão Vilas Boas
+- [Thiago Moreira](https://github.com/AmoreiraT)
+- [Lincoln Silva](https://github.com/lincolnsilva)
+- [Estevão Vilas Boas](https://github.com/evilasboas)
