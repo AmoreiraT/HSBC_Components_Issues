@@ -43,7 +43,7 @@ Protótipo do Portal Web em tempo real.
 **Link:** https://www.figma.com/proto/JHPXOOzrbejTLOK0593s7u/HSBC-Web?page-id=0%3A10&node-id=1359%3A9949&viewport=321%2C-255%2C0.14&scaling=contain&starting-point-node-id=1359%3A9949
 
 <div align="center">
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJHPXOOzrbejTLOK0593s7u%2FHSBC-Web%3Fpage-id%3D0%253A10%26node-id%3D1359%253A9949%26viewport%3D321%252C-255%252C0.14%26scaling%3Dcontain%26starting-point-node-id%3D1359%253A9949" allowfullscreen></iframe>
+<a id="iframeLink" href="https://www.figma.com/proto/JHPXOOzrbejTLOK0593s7u/HSBC-Web?page-id=0%3A10&node-id=1359%3A9949&viewport=321%2C-255%2C0.14&scaling=contain&starting-point-node-id=1359%3A9949"><div id="iframeDiv"><img src="./images/embeedPrototype.png" ></div></a></p>
 </div>
  <br/>
 
@@ -54,8 +54,9 @@ Design UI em tempo real.
 **Link:** https://www.figma.com/file/JHPXOOzrbejTLOK0593s7u/HSBC-Web?node-id=0%3A10&t=ishXP9WoRTXOQx8X-1
 
 <div align="center">
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FJHPXOOzrbejTLOK0593s7u%2FHSBC-Web%3Fnode-id%3D0%253A10%26t%3DishXP9WoRTXOQx8X-1" allowfullscreen></iframe>
+<a id="iframeLink" href="https://www.figma.com/file/JHPXOOzrbejTLOK0593s7u/HSBC-Web?node-id=0%3A10&t=ishXP9WoRTXOQx8X-1"><div id="iframeDiv"><img src="./images/openDesignUI.png" ></div></a></p>
 </div>
+ <br/>
 
 ## 💭 How it works <a name = "datePicker"></a>
 
