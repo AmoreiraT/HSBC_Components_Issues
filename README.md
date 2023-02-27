@@ -373,7 +373,9 @@ O **Date Picker** que trazemos como proposta já implementamos em outros cenári
  
 > Wholesale Web Toolkit. <br/> **Link:** [Wholesale Web Toolkit Version PDF](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>)
 
-## <br/>
+ <br/>
+
+---
 
  <br/>
 
