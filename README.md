@@ -33,7 +33,7 @@
 
 ## 🧐 Sobre <a name = "sobre"></a>[🔝](#init)
 
-Write sobre 1-2 paragraphs describing the purpose of your bot.
+Este documento compõe detalhes do projeto em desenvolvimento, portal web HSBC, onde aqui notaremos quais components podem comprometer os prazos para a entrega do projeto e qual solução adotaremos para a sua conclusão. Os demais components que não estão aqui notados não trazem complexidade para a produção e serão elaborados de acordo com as exigências da [Toolkit](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>).
 
 ## 🎨 Figma <a name = "figma"></a>[🔝](#init)
 
@@ -67,58 +67,39 @@ Design UI em tempo real.
 
 ## 📅 Date Pickers <a name = "datePicker"></a>[🔝](#init)
 
-> Wholesale Web Toolkit Version: 4.0.0 December 2021. Páginas: 3, 4, 70, 71, 72
+> [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>): 4.0.0 December 2021. Páginas: 3, 4, 70, 71, 72
+
+### Prints:
 
 <p align="center">
-  <a href="https://www.blueprojects.com.br/" rel="noopener">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
  <img  src="./images/hsbcToolkitPrints/Date_Picker.png" alt="Bot logo"></a>
 </p>
 
-The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
+<p align="center">
+  <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img height=560px src="./images/hsbcToolkitPrints/Date_Picker_Date_range_picker_symbols_added.png" alt="Bot logo"></a>
+ <a href="https://github.com/AmoreiraT/HSBC_Components_Issues/blob/main/refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf" rel="noopener">
+ <img height=400px src="./images/hsbcToolkitPrints/Date_range_picker_combo box.png" alt="Bot logo"></a>
+</p>
 
-If the word does not exist in the Oxford Dictionary, the Oxford API then returns a 404 response upon which the bot then tries to fetch results form the Urban Dictionary API.
+<sup>Para acessae o documento clique aqui: [Wholesale Web Toolkit Version](<./refs/1.3%20Desktop%20HSBC%20Wholesale%20Web%20Toolkit%204.0.0%20(2)%20copy.pdf>)</sup>
 
-The bot uses the Pushshift API to fetch comments, PRAW module to reply to comments and Heroku as a server.
+**Date Picker** é um componente para a seleção de datas, períodos e demais funcionalidades que representem datas a serem informadas pelo cliente. É um componente que tende a inúmeras variações de acordo com suas necessidades, por exemplo, selecionar um período de início e fim de alguma atividade, selecionar apenas dias, apenas meses, apenas anos ou um combinado desses atributos. Compor todas essas variações pode se tornar complexo e oneroso de acordo com as necessidades de teste de usabilidade e bugs que podem sem apresentados no browser.
 
-The entire bot is written in Python 3.6
+- O **Date Picker** que trazemos como proposta segue já um entendimento universalizado de usabilidade podendo em muitas plataformas e SO serem notados como [Components nativos](#nativeComponents) entretanto para estes que são nativos trazemos um parágrafo de considerações.
+
 <br/>
 
 ---
 
  <br/>
- 
-## ➡️ ProgressTracker <a name = "progressTracker"></a>[🔝](#init)
 
-To use the bot, type:
-
-```
-!dict word
-```
-
-The first part, i.e. "!dict" **is not** case sensitive.
-
-The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.
-
-### Example:
-
-**Definition:**
-
-Baby, dont hurt me~
-Dont hurt me~ no more.
-
-**Example:**
-
-Dude1: Bruh, what is love?
-Dude2: Baby, dont hurt me, dont hurt me- no more!
-Dude1: dafuq?
+## ➡️ Progress Tracker <a name = "progressTracker"></a>[🔝](#init)
 
 ---
 
-<sup>Want to make a similar reddit bot? Check out: [GitHub](https://github.com/kylelobo/Reddit-Bot)</sup>
-
 ## 📑 Table Data <a name = "tableData"></a>[🔝](#init)
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [nativeComponents](#nativeComponents) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -130,10 +111,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## 📟 Native Components <a name = "nativeComponents"></a>[🔝](#init)
 
-To see an example project on how to deploy your bot, please see my own configuration:
-
-- **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
-
  <br/>
 
 ---
@@ -142,8 +119,7 @@ To see an example project on how to deploy your bot, please see my own configura
 
 ## 📍 Versionamentos <a name = "versionamentos"></a>[🔝](#init)
 
-- [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
-- [Heroku](https://www.heroku.com/) - SaaS hosting platform
+- [Material UI ](https://mui.com/material-ui/) - v5.11.10ˆ
 
  <br/>
 
@@ -153,9 +129,9 @@ To see an example project on how to deploy your bot, please see my own configura
 
 ## 🕸️ Acessos <a name = "links"></a>[🔝](#init)
 
-> Protótipo do Portal Web em tempo real. <br/> > **Link:** https://www.figma.com/proto/JHPXOOzrbejTLOK0593s7u/HSBC-Web?page-id=0%3A10&node-id=1359%3A9949&viewport=321%2C-255%2C0.14&scaling=contain&starting-point-node-id=1359%3A9949
+> Protótipo do Portal Web em tempo real. <br/> **Link:** https://www.figma.com/proto/JHPXOOzrbejTLOK0593s7u/HSBC-Web?page-id=0%3A10&node-id=1359%3A9949&viewport=321%2C-255%2C0.14&scaling=contain&starting-point-node-id=1359%3A9949
 
-> Design UI em tempo real. <br/> > **Link:** https://www.figma.com/file/JHPXOOzrbejTLOK0593s7u/HSBC-Web?node-id=0%3A10&t=ishXP9WoRTXOQx8X-1
+> Design UI em tempo real. <br/> **Link:** https://www.figma.com/file/JHPXOOzrbejTLOK0593s7u/HSBC-Web?node-id=0%3A10&t=ishXP9WoRTXOQx8X-1
 
  <br/>
 
